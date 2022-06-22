@@ -1,0 +1,4 @@
+git clone https://github.com/sysce/tomp-demo.git
+cd tomp-demo
+npm install
+npm start --port 80 --host localhost
